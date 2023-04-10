@@ -11,6 +11,8 @@ public class Configuration {
     private int maximum;
 
 
+
+
     public int getMinumum() {
         return minumum;
     }
